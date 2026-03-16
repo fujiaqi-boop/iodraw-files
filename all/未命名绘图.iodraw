@@ -91,7 +91,7 @@
         <mxCell id="fx0z8NHWieIHYHocAv5q-34" value="" style="html=1;shadow=1;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.57;dx=18.14;notch=12;rotation=90;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;labelBackgroundColor=none;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="533.5" y="690.5" width="93" height="30.5" as="geometry" />
         </mxCell>
-        <mxCell id="fx0z8NHWieIHYHocAv5q-35" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;专家分析0.5d&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;labelBackgroundColor=none;fontColor=#e50b0b;labelBorderColor=none;textShadow=1;glass=1;shadow=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="fx0z8NHWieIHYHocAv5q-35" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;专家分析0.5d&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;labelBackgroundColor=default;fontColor=#e50b0b;labelBorderColor=none;textShadow=1;glass=1;shadow=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="307.5" y="391.25" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fx0z8NHWieIHYHocAv5q-36" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeColor=#2c9ac9;fontColor=#1A1A1A;fillColor=#5D7F99;size=0.5;strokeWidth=5;" vertex="1" parent="1">
