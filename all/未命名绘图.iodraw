@@ -10,7 +10,7 @@
         <mxCell id="fx0z8NHWieIHYHocAv5q-4" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;专家构建&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=none;glass=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fx0z8NHWieIHYHocAv5q-2" value="" style="image;html=1;image=img/lib/clip_art/people/Construction_Worker_Man_128x128.png" vertex="1" parent="1">
+        <mxCell id="fx0z8NHWieIHYHocAv5q-2" value="" style="image;html=1;image=img/lib/clip_art/people/Construction_Worker_Man_128x128.png;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="410" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fx0z8NHWieIHYHocAv5q-5" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;评审修订&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=none;fontStyle=1;glass=1;shadow=1;" vertex="1" parent="1">
@@ -34,10 +34,10 @@
         <mxCell id="fx0z8NHWieIHYHocAv5q-11" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.57;dx=18.14;notch=12;rotation=-90;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="330" y="539.5" width="93" height="30.5" as="geometry" />
         </mxCell>
-        <mxCell id="fx0z8NHWieIHYHocAv5q-12" value="" style="image;html=1;image=img/lib/clip_art/computers/Data_Filtering_128x128.png" vertex="1" parent="1">
+        <mxCell id="fx0z8NHWieIHYHocAv5q-12" value="" style="image;html=1;image=img/lib/clip_art/computers/Data_Filtering_128x128.png;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="270" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fx0z8NHWieIHYHocAv5q-13" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=img/clipart/Gear_128x128.png;rotation=-179;" vertex="1" parent="1">
+        <mxCell id="fx0z8NHWieIHYHocAv5q-13" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=img/clipart/Gear_128x128.png;rotation=-179;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="287.01" y="290" width="29.99" height="30.96" as="geometry" />
         </mxCell>
         <mxCell id="fx0z8NHWieIHYHocAv5q-14" value="" style="image;html=1;image=img/lib/clip_art/people/Construction_Worker_Man_Black_128x128.png;shadow=1;" vertex="1" parent="1">
