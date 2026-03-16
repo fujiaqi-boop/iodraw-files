@@ -58,7 +58,7 @@
         <mxCell id="fx0z8NHWieIHYHocAv5q-20" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#0B4D6A;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="780" as="sourcePoint" />
-            <mxPoint x="520" y="320" as="targetPoint" />
+            <mxPoint x="520" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
