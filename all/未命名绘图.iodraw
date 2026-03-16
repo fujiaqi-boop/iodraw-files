@@ -101,7 +101,10 @@
           <mxGeometry x="670" y="524.75" width="90" height="130.5" as="geometry" />
         </mxCell>
         <mxCell id="fx0z8NHWieIHYHocAv5q-38" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#0be541&quot;&gt;反馈&lt;/font&gt;&lt;/span&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#0be541&quot;&gt;学习&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#0be541&quot;&gt;闭环&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;labelBackgroundColor=#b0b0b0;fontColor=#e50b0b;labelBorderColor=none;textShadow=1;glass=1;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="564" y="539.5" width="85" height="30" as="geometry" />
+          <mxGeometry x="564" y="538" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fx0z8NHWieIHYHocAv5q-39" value="&lt;font color=&quot;#ff0d0d&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;自动导出报告&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ff0d0d&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;数秒&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;labelBackgroundColor=none;fontColor=#1A1A1A;textShadow=1;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="545" y="690" width="115" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
