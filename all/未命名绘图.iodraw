@@ -74,7 +74,10 @@
           <mxGeometry x="520" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fx0z8NHWieIHYHocAv5q-25" value="" style="image;html=1;image=img/lib/clip_art/computers/Netbook_128x128.png;strokeColor=#D0CEE2;fontColor=#1A1A1A;fillColor=#5D7F99;" vertex="1" parent="1">
-          <mxGeometry x="470" y="265.48" width="80" height="80" as="geometry" />
+          <mxGeometry x="480" y="270" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fx0z8NHWieIHYHocAv5q-26" value="" style="image;html=1;image=img/lib/clip_art/networking/UPS_128x128.png;strokeColor=#D0CEE2;fontColor=#1A1A1A;fillColor=#5D7F99;" vertex="1" parent="1">
+          <mxGeometry x="700" y="500" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
