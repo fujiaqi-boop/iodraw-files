@@ -113,7 +113,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fx0z8NHWieIHYHocAv5q-41" value="" style="image;html=1;image=img/lib/clip_art/general/Full_Folder_128x128.png;shadow=1;rounded=1;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="1">
-          <mxGeometry x="263.5" y="730.5" width="50" height="50" as="geometry" />
+          <mxGeometry x="485" y="721" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fx0z8NHWieIHYHocAv5q-42" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=img/clipart/Gear_128x128.png;rotation=-179;shadow=1;rounded=1;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="297.01" y="300" width="29.99" height="30.96" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
