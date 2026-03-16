@@ -26,7 +26,7 @@
           <mxGeometry x="643" y="395" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4ec97bd9e5d20128-14" value="&lt;h1&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;规则+传统机器学习阶段&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="93" y="430" width="215" height="120" as="geometry" />
+          <mxGeometry x="95" y="422" width="215" height="120" as="geometry" />
         </mxCell>
         <mxCell id="4ec97bd9e5d20128-16" value="&lt;h1&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;大模型+RAG+知识图谱阶段&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="250" width="270" height="120" as="geometry" />
