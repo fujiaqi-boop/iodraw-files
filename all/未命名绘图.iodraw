@@ -37,6 +37,9 @@
         <mxCell id="fx0z8NHWieIHYHocAv5q-12" value="" style="image;html=1;image=img/lib/clip_art/computers/Data_Filtering_128x128.png" vertex="1" parent="1">
           <mxGeometry x="250" y="270" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="fx0z8NHWieIHYHocAv5q-13" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="570" y="520" width="50" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
