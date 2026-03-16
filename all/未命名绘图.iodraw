@@ -46,7 +46,7 @@
         <mxCell id="fx0z8NHWieIHYHocAv5q-15" value="&lt;b&gt;&lt;font color=&quot;#ff0d0d&quot; style=&quot;font-size: 17px;&quot;&gt;1-2d&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;labelBackgroundColor=default;fontColor=#EEEEEE;textShadow=1;" vertex="1" parent="1">
           <mxGeometry x="315" y="690.5" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fx0z8NHWieIHYHocAv5q-16" value="&lt;font color=&quot;#ff0d0d&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;1d&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;labelBackgroundColor=default;fontColor=#EEEEEE;textShadow=1;" vertex="1" parent="1">
+        <mxCell id="fx0z8NHWieIHYHocAv5q-16" value="&lt;font size=&quot;1&quot; color=&quot;#ff0d0d&quot;&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;1d&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;labelBackgroundColor=#FFF2CC;fontColor=#EEEEEE;textShadow=1;" vertex="1" parent="1">
           <mxGeometry x="341.5" y="540" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fx0z8NHWieIHYHocAv5q-17" value="&lt;font color=&quot;#ff0d0d&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;2-5d&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;labelBackgroundColor=#FFF2CC;fontColor=#EEEEEE;textShadow=1;" vertex="1" parent="1">
