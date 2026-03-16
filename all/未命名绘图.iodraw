@@ -82,7 +82,7 @@
         <mxCell id="fx0z8NHWieIHYHocAv5q-31" value="" style="html=1;shadow=1;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.57;dx=18.14;notch=12;rotation=-90;fillColor=#5D7F99;strokeColor=#D0CEE2;rounded=1;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="560" y="539.75" width="93" height="30.5" as="geometry" />
         </mxCell>
-        <mxCell id="fx0z8NHWieIHYHocAv5q-32" value="" style="html=1;shadow=1;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.57;dx=18.14;notch=12;rotation=90;fillColor=#5D7F99;strokeColor=#D0CEE2;rounded=1;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
+        <mxCell id="fx0z8NHWieIHYHocAv5q-32" value="" style="html=1;shadow=1;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.57;dx=18.14;notch=12;rotation=90;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;labelBackgroundColor=none;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="510" y="539.5" width="93" height="30.5" as="geometry" />
         </mxCell>
         <mxCell id="fx0z8NHWieIHYHocAv5q-33" value="" style="html=1;shadow=1;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.57;dx=18.14;notch=12;rotation=90;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;labelBackgroundColor=none;gradientColor=#ffd966;" vertex="1" parent="1">
