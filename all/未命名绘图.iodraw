@@ -37,14 +37,8 @@
         <mxCell id="PnMh7HVzw6iWQi1Oe5pL-1" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;&lt;span style=&quot;background-color: rgba(0, 0, 0, 0); color: rgb(31, 35, 41); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: left;&quot;&gt;规则驱动实体 / 关系抽取，&lt;/span&gt;&lt;span style=&quot;background-color: rgba(0, 0, 0, 0); color: rgb(31, 35, 41); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: left;&quot;&gt;TF-IDF、SVM、随机森林&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="70" y="465" width="292.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="PnMh7HVzw6iWQi1Oe5pL-3" value="&lt;b&gt;任务&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="80" y="490" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PnMh7HVzw6iWQi1Oe5pL-15" value="&lt;b&gt;缺陷&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="80" y="520" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="PnMh7HVzw6iWQi1Oe5pL-16" value="&lt;span style=&quot;color: rgb(31, 35, 41); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 7px; text-align: left;&quot;&gt;手册 / 报告概念抽取，故障 - 症状 - 对策三元组&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="120" y="505" width="283" height="20" as="geometry" />
+          <mxGeometry x="93" y="495" width="283" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PnMh7HVzw6iWQi1Oe5pL-17" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;手工映射节点，Few-Shot Transformer 效果受限&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="131.5" y="520" width="205" height="30" as="geometry" />
