@@ -10,8 +10,11 @@
         <mxCell id="fx0z8NHWieIHYHocAv5q-2" value="" style="image;html=1;image=img/lib/clip_art/people/Construction_Worker_Man_128x128.png" vertex="1" parent="1">
           <mxGeometry x="160" y="230" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fx0z8NHWieIHYHocAv5q-4" value="明确顶事件" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="fx0z8NHWieIHYHocAv5q-4" value="大量搜集资料，专家开会讨论" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="290" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fx0z8NHWieIHYHocAv5q-5" value="大量搜集资料，专家开会讨论" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
