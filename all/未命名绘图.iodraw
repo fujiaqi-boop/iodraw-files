@@ -43,7 +43,7 @@
         <mxCell id="fx0z8NHWieIHYHocAv5q-14" value="" style="image;html=1;image=img/lib/clip_art/people/Construction_Worker_Man_Black_128x128.png" vertex="1" parent="1">
           <mxGeometry x="250" y="560" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fx0z8NHWieIHYHocAv5q-15" value="&lt;b&gt;0.5d&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="fx0z8NHWieIHYHocAv5q-15" value="&lt;b&gt;&lt;font color=&quot;#ff0d0d&quot;&gt;一般用时0.5d&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="391.25" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
