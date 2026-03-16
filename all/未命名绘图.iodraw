@@ -35,7 +35,7 @@
           <mxGeometry x="317" y="540" width="93" height="30.5" as="geometry" />
         </mxCell>
         <mxCell id="fx0z8NHWieIHYHocAv5q-12" value="" style="image;html=1;image=img/lib/clip_art/computers/Data_Filtering_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="550" y="520" width="60" height="80" as="geometry" />
+          <mxGeometry x="250" y="520" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
