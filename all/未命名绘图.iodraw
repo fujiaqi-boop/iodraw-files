@@ -19,6 +19,9 @@
         <mxCell id="fx0z8NHWieIHYHocAv5q-6" value="分析报告" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=none;fontStyle=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="290" y="750" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="fx0z8NHWieIHYHocAv5q-7" value="" style="image;html=1;image=img/lib/clip_art/general/Full_Folder_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="550" y="510" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
