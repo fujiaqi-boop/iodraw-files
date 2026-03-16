@@ -22,8 +22,8 @@
         <mxCell id="fx0z8NHWieIHYHocAv5q-7" value="" style="image;html=1;image=img/lib/clip_art/general/Full_Folder_128x128.png" vertex="1" parent="1">
           <mxGeometry x="250" y="570" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="fx0z8NHWieIHYHocAv5q-8" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;" vertex="1" parent="1">
-          <mxGeometry x="540" y="540" width="100" height="30" as="geometry" />
+        <mxCell id="fx0z8NHWieIHYHocAv5q-8" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="305" y="395" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
