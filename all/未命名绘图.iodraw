@@ -116,7 +116,7 @@
           <mxGeometry x="485" y="721" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fx0z8NHWieIHYHocAv5q-42" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=img/clipart/Gear_128x128.png;rotation=353;shadow=1;rounded=1;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;flipH=0;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="495.54" y="277.88" width="12" height="19.66" as="geometry" />
+          <mxGeometry x="495.54" y="281" width="11" height="17" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
