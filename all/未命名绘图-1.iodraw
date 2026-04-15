@@ -304,7 +304,7 @@
         <mxCell id="QZHdwv4goNbSfUOjAbL8-171" value="&lt;p style=&quot;line-height: 130%;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;...&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textOpacity=70;" parent="1" vertex="1">
           <mxGeometry x="639.25" y="679.01" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QZHdwv4goNbSfUOjAbL8-187" value="&lt;p style=&quot;line-height: 170%;&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;Vue3&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;glass=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="QZHdwv4goNbSfUOjAbL8-187" value="&lt;p style=&quot;line-height: 170%;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Vue3&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;glass=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="173.25" y="769.01" width="44" height="16.5" as="geometry" />
         </mxCell>
         <mxCell id="QZHdwv4goNbSfUOjAbL8-188" value="&lt;p style=&quot;line-height: 170%;&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;Vue Router 4&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;glass=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
