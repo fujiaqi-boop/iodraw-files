@@ -61,7 +61,7 @@
         <mxCell id="QZHdwv4goNbSfUOjAbL8-37" value="数据集准备" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="225" y="250" width="81" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="QZHdwv4goNbSfUOjAbL8-38" value="LLM prompt优化" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="QZHdwv4goNbSfUOjAbL8-38" value="大模型提示词工程" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="379.5" y="250" width="81" height="24" as="geometry" />
         </mxCell>
         <mxCell id="QZHdwv4goNbSfUOjAbL8-39" value="生成效果评估" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" parent="1" vertex="1">
