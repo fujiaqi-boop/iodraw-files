@@ -451,7 +451,7 @@
         <mxCell id="wZqb0CJCETRgPySjAPVx-8" value="&lt;p style=&quot;line-height: 90%;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;多源注入&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;align=center;glass=1;shadow=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="230.54" y="428" width="67" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="wZqb0CJCETRgPySjAPVx-14" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=12 12;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="wZqb0CJCETRgPySjAPVx-14" value="全链路闭环" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=12 12;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="366.29" y="474" width="74" height="74" as="geometry" />
         </mxCell>
         <mxCell id="wZqb0CJCETRgPySjAPVx-16" value="&lt;b&gt;智能生成&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="1">
@@ -469,7 +469,7 @@
         <mxCell id="wZqb0CJCETRgPySjAPVx-29" value="" style="triangle;whiteSpace=wrap;html=1;flipH=1;rotation=90;flipV=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientDirection=west;" vertex="1" parent="1">
           <mxGeometry x="305" y="506" width="22.5" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="wZqb0CJCETRgPySjAPVx-32" value="&lt;p style=&quot;line-height: 90%;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;自动迭代&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;align=center;glass=1;shadow=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="wZqb0CJCETRgPySjAPVx-32" value="&lt;p style=&quot;line-height: 90%;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;自动迭代&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;align=center;glass=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="510.53000000000003" y="579" width="61" height="27" as="geometry" />
         </mxCell>
         <mxCell id="wZqb0CJCETRgPySjAPVx-33" value="&lt;p style=&quot;line-height: 90%;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;概率层校验&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;align=center;glass=1;shadow=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -493,7 +493,7 @@
         <mxCell id="wZqb0CJCETRgPySjAPVx-39" value="&lt;p style=&quot;line-height: 90%;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;用户反馈&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;align=center;glass=1;shadow=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="166.25" y="546" width="61" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="wZqb0CJCETRgPySjAPVx-40" value="&lt;p style=&quot;line-height: 90%;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;规划方案&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;align=center;glass=1;shadow=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="wZqb0CJCETRgPySjAPVx-40" value="&lt;p style=&quot;line-height: 90%;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;规划方案&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;align=center;glass=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="576.54" y="546" width="61" height="27" as="geometry" />
         </mxCell>
         <mxCell id="wZqb0CJCETRgPySjAPVx-41" value="&lt;p style=&quot;line-height: 90%;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;优化生成&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;align=center;glass=1;shadow=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
@@ -505,7 +505,7 @@
         <mxCell id="wZqb0CJCETRgPySjAPVx-15" value="&lt;b&gt;反馈学习&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=1;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="292.79" y="532.99" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wZqb0CJCETRgPySjAPVx-42" value="&lt;p style=&quot;line-height: 90%;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;文档比对&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;align=center;glass=1;shadow=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="wZqb0CJCETRgPySjAPVx-42" value="&lt;p style=&quot;line-height: 90%;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;文档比对&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;align=center;glass=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="576.54" y="579" width="61" height="27" as="geometry" />
         </mxCell>
       </root>
