@@ -502,7 +502,7 @@
         <mxCell id="wZqb0CJCETRgPySjAPVx-28" value="" style="triangle;whiteSpace=wrap;html=1;flipH=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="465" y="498.5" width="22.5" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="wZqb0CJCETRgPySjAPVx-29" value="" style="triangle;whiteSpace=wrap;html=1;flipH=1;rotation=-90;flipV=0;" vertex="1" parent="1">
+        <mxCell id="wZqb0CJCETRgPySjAPVx-29" value="" style="triangle;whiteSpace=wrap;html=1;flipH=1;rotation=90;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="475" y="508.5" width="22.5" height="21" as="geometry" />
         </mxCell>
       </root>
