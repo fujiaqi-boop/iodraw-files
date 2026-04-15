@@ -112,7 +112,7 @@
         <mxCell id="QZHdwv4goNbSfUOjAbL8-59" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;rotation=0;shadow=1;size=11.857162475585938;direction=east;fillColor=#FFF133;strokeColor=none;arcSize=6;gradientColor=#ffa500;gradientDirection=east;" parent="1" vertex="1">
           <mxGeometry x="396.25" y="809.5" width="43.5" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="QZHdwv4goNbSfUOjAbL8-61" value="&lt;b&gt;前后端技术栈&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="QZHdwv4goNbSfUOjAbL8-61" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;前后端技术栈&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="195.25" y="709.01" width="89" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QZHdwv4goNbSfUOjAbL8-63" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;前端UI&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
@@ -242,7 +242,7 @@
           <mxGeometry x="576.54" y="461" width="61" height="27" as="geometry" />
         </mxCell>
         <mxCell id="QZHdwv4goNbSfUOjAbL8-139" value="&lt;b&gt;支持16种故障树分析功能&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="119" y="620" width="151" height="26" as="geometry" />
+          <mxGeometry x="115.05" y="626.99" width="151" height="26" as="geometry" />
         </mxCell>
         <mxCell id="QZHdwv4goNbSfUOjAbL8-144" value="&lt;b&gt;&lt;font color=&quot;#b3b3b3&quot; style=&quot;font-size: 12px;&quot;&gt;基于LLM&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="116.25" y="640" width="60" height="30" as="geometry" />
