@@ -239,17 +239,7 @@
           <mxGeometry x="737" y="513" width="61" height="27" as="geometry" />
         </mxCell>
         <mxCell id="QZHdwv4goNbSfUOjAbL8-129" value="&lt;p style=&quot;line-height: 90%;&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;自动迭代&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;align=center;glass=1;shadow=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="762" y="397" width="61" height="27" as="geometry" />
-        </mxCell>
-        <mxCell id="QZHdwv4goNbSfUOjAbL8-137" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="QZHdwv4goNbSfUOjAbL8-128" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="668.5" y="437.5000000000001" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QZHdwv4goNbSfUOjAbL8-138" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="QZHdwv4goNbSfUOjAbL8-129" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="729.4999999999998" y="437.5000000000001" as="sourcePoint" />
-          </mxGeometry>
+          <mxGeometry x="497.25" y="537.49" width="61" height="27" as="geometry" />
         </mxCell>
         <mxCell id="QZHdwv4goNbSfUOjAbL8-139" value="&lt;b&gt;支持16种故障树分析功能&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="119" y="620" width="151" height="26" as="geometry" />
