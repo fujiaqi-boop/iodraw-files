@@ -457,7 +457,7 @@
         <mxCell id="wZqb0CJCETRgPySjAPVx-16" value="&lt;b&gt;智能生成&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=none;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="292.79" y="421" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wZqb0CJCETRgPySjAPVx-26" value="" style="triangle;whiteSpace=wrap;html=1;rounded=0;strokeColor=#36393d;fillColor=#ffff88;gradientDirection=west;shadow=0;gradientColor=default;" vertex="1" parent="1">
+        <mxCell id="wZqb0CJCETRgPySjAPVx-26" value="" style="triangle;whiteSpace=wrap;html=1;rounded=0;strokeColor=#d79b00;fillColor=#ffcd28;gradientDirection=west;shadow=0;gradientColor=#ffa500;" vertex="1" parent="1">
           <mxGeometry x="395.54" y="415" width="22.5" height="21" as="geometry" />
         </mxCell>
         <mxCell id="wZqb0CJCETRgPySjAPVx-27" value="" style="triangle;whiteSpace=wrap;html=1;flipH=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientDirection=west;" vertex="1" parent="1">
