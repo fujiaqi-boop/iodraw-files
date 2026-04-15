@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="xKPplqu-eIcq1WjQrOUT">
-    <mxGraphModel dx="829" dy="561" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
+    <mxGraphModel dx="1365" dy="924" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -64,9 +64,6 @@
         <mxCell id="QZHdwv4goNbSfUOjAbL8-39" value="生成效果评估" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="510.25" y="251" width="85.5" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="QZHdwv4goNbSfUOjAbL8-41" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;rotation=90;shadow=1;size=17.004286804199182;fillColor=#dae8fc;strokeColor=none;gradientColor=#7ea6e0;gradientDirection=west;" parent="1" vertex="1">
-          <mxGeometry x="676" y="208.74" width="35.53" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="QZHdwv4goNbSfUOjAbL8-42" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;rotation=0;shadow=1;size=10.857223510742188;fillColor=#FFF133;strokeColor=none;gradientColor=#ffa500;gradientDirection=east;" parent="1" vertex="1">
           <mxGeometry x="353" y="309.5" width="27" height="32" as="geometry" />
         </mxCell>
@@ -84,9 +81,6 @@
         </mxCell>
         <mxCell id="QZHdwv4goNbSfUOjAbL8-50" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#5CB8FF;fontColor=#333333;strokeColor=none;glass=0;gradientColor=#94FFFF;gradientDirection=west;" parent="1" vertex="1">
           <mxGeometry x="220" y="409" width="376" height="93" as="geometry" />
-        </mxCell>
-        <mxCell id="QZHdwv4goNbSfUOjAbL8-47" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;rotation=90;shadow=1;size=17.004286804199182;fillColor=#dae8fc;strokeColor=none;gradientColor=#7ea6e0;gradientDirection=west;" parent="1" vertex="1">
-          <mxGeometry x="632.965" y="435.495" width="35.53" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QZHdwv4goNbSfUOjAbL8-48" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;rotation=90;shadow=1;size=17.004286804199182;fillColor=#dae8fc;strokeColor=none;gradientColor=#7ea6e0;gradientDirection=west;" parent="1" vertex="1">
           <mxGeometry x="543.985" y="490.995" width="35.53" height="40" as="geometry" />
