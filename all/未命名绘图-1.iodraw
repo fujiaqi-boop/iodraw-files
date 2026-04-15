@@ -7,7 +7,7 @@
         <mxCell id="QZHdwv4goNbSfUOjAbL8-50" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#5CB8FF;fontColor=#333333;strokeColor=none;glass=0;gradientColor=#94FFFF;gradientDirection=west;" parent="1" vertex="1">
           <mxGeometry x="140" y="409" width="517" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="wZqb0CJCETRgPySjAPVx-19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4AFFF9;strokeColor=default;fillStyle=auto;" vertex="1" parent="1">
+        <mxCell id="wZqb0CJCETRgPySjAPVx-19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=auto;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="316.29" y="424" width="174" height="174" as="geometry" />
         </mxCell>
         <mxCell id="wZqb0CJCETRgPySjAPVx-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5fbfa;fontColor=#333333;strokeColor=none;gradientColor=#4AFFF9;" vertex="1" parent="1">
@@ -451,7 +451,7 @@
         <mxCell id="wZqb0CJCETRgPySjAPVx-8" value="&lt;p style=&quot;line-height: 90%;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;多源注入&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;align=center;glass=1;shadow=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="230.54" y="428" width="67" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="wZqb0CJCETRgPySjAPVx-14" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="wZqb0CJCETRgPySjAPVx-14" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
           <mxGeometry x="387.29" y="495" width="32" height="32" as="geometry" />
         </mxCell>
         <mxCell id="wZqb0CJCETRgPySjAPVx-16" value="智能生成" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="1">
