@@ -515,7 +515,7 @@
           <mxGeometry x="387" y="71.39337519177226" width="47" height="35.19887493607591" as="geometry" />
         </mxCell>
         <mxCell id="QZHdwv4goNbSfUOjAbL8-64" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;后端技术栈&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="wZqb0CJCETRgPySjAPVx-61" vertex="1">
-          <mxGeometry x="289.5" y="-12" width="89" height="30" as="geometry" />
+          <mxGeometry x="289.5" y="-14" width="89" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
