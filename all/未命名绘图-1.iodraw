@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wZqb0CJCETRgPySjAPVx-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5fbfa;fontColor=#333333;strokeColor=none;gradientColor=#4AFFF9;" vertex="1" parent="1">
+          <mxGeometry x="115.05" y="257" width="567.3" height="137" as="geometry" />
+        </mxCell>
         <mxCell id="QZHdwv4goNbSfUOjAbL8-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5fbfa;fontColor=#333333;strokeColor=none;gradientColor=#4AFFF9;" parent="1" vertex="1">
           <mxGeometry x="104.41" y="98" width="588" height="142" as="geometry" />
         </mxCell>
@@ -453,9 +456,6 @@
         </mxCell>
         <mxCell id="QZHdwv4goNbSfUOjAbL8-245" value="&lt;p style=&quot;line-height: 47%;&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;&lt;b&gt;工业运维数字化&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;align=center;glass=1;shadow=1;fillColor=#d5e8d4;strokeColor=#82b366;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="505" y="203" width="59" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="wZqb0CJCETRgPySjAPVx-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5fbfa;fontColor=#333333;strokeColor=none;gradientColor=#4AFFF9;" vertex="1" parent="1">
-          <mxGeometry x="104.69999999999999" y="254.5" width="588" height="142" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
