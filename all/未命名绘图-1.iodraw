@@ -523,6 +523,9 @@
         <mxCell id="wZqb0CJCETRgPySjAPVx-54" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;rotation=90;shadow=1;size=17.004286804199182;fillColor=#dae8fc;strokeColor=none;gradientColor=#7ea6e0;gradientDirection=west;" vertex="1" parent="1">
           <mxGeometry x="547.235" y="612.995" width="35.53" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="wZqb0CJCETRgPySjAPVx-55" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;rotation=90;shadow=1;size=17.004286804199182;fillColor=#dae8fc;strokeColor=none;gradientColor=#7ea6e0;gradientDirection=west;" vertex="1" parent="1">
+          <mxGeometry x="507.245" y="391.005" width="35.53" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
