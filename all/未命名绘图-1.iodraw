@@ -49,8 +49,8 @@
         <mxCell id="QZHdwv4goNbSfUOjAbL8-28" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;竞品分析&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="322" y="89" width="69" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="QZHdwv4goNbSfUOjAbL8-29" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;b&gt;市场调研阶段：明确用户需求&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="128" y="77" width="174" height="26" as="geometry" />
+        <mxCell id="QZHdwv4goNbSfUOjAbL8-29" value="&lt;font size=&quot;1&quot; face=&quot;Helvetica&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;市场调研阶段：明确用户需求&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="115" y="76" width="200" height="29" as="geometry" />
         </mxCell>
         <mxCell id="QZHdwv4goNbSfUOjAbL8-30" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;现状研究&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="214.5" y="94" width="77" height="24" as="geometry" />
@@ -62,7 +62,7 @@
           <mxGeometry x="543.25" y="93" width="77" height="24" as="geometry" />
         </mxCell>
         <mxCell id="QZHdwv4goNbSfUOjAbL8-36" value="&lt;font size=&quot;1&quot; face=&quot;Helvetica&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;奠基阶段：构建知识库与提示词工程&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="129.01999999999998" y="237" width="242" height="29" as="geometry" />
+          <mxGeometry x="123.24999999999999" y="234" width="242" height="29" as="geometry" />
         </mxCell>
         <mxCell id="QZHdwv4goNbSfUOjAbL8-37" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;数据集准备&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="225" y="250" width="81" height="26" as="geometry" />
