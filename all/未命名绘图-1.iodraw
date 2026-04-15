@@ -460,9 +460,6 @@
         <mxCell id="wZqb0CJCETRgPySjAPVx-16" value="智能生成" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="279.5" y="419" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wZqb0CJCETRgPySjAPVx-17" value="可信度评价" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="420.25" y="414" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="wZqb0CJCETRgPySjAPVx-18" value="智能优化" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="417.25" y="530.99" width="80" height="80" as="geometry" />
         </mxCell>
@@ -485,10 +482,13 @@
           <mxGeometry x="566.25" y="426" width="61" height="27" as="geometry" />
         </mxCell>
         <mxCell id="wZqb0CJCETRgPySjAPVx-34" value="&lt;p style=&quot;line-height: 90%;&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;证据层校验&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;align=center;glass=1;shadow=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="499" y="459" width="61" height="27" as="geometry" />
+          <mxGeometry x="497.24" y="457" width="61" height="27" as="geometry" />
         </mxCell>
         <mxCell id="wZqb0CJCETRgPySjAPVx-35" value="&lt;p style=&quot;line-height: 90%;&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;结构层校验&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;align=center;glass=1;shadow=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="497.24" y="426" width="61" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="wZqb0CJCETRgPySjAPVx-17" value="可信度评价" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="420.25" y="414" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
