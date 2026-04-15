@@ -61,8 +61,8 @@
         <mxCell id="QZHdwv4goNbSfUOjAbL8-33" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;可行性分析&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="543.25" y="93" width="77" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="QZHdwv4goNbSfUOjAbL8-36" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;b&gt;奠基阶段：构建动态知识库与prompt体系&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="130.01999999999998" y="238" width="239" height="26" as="geometry" />
+        <mxCell id="QZHdwv4goNbSfUOjAbL8-36" value="&lt;font size=&quot;1&quot; face=&quot;Helvetica&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;奠基阶段：构建知识库与提示词工程&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="129.01999999999998" y="237" width="242" height="29" as="geometry" />
         </mxCell>
         <mxCell id="QZHdwv4goNbSfUOjAbL8-37" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;数据集准备&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="225" y="250" width="81" height="26" as="geometry" />
@@ -226,8 +226,8 @@
         <mxCell id="QZHdwv4goNbSfUOjAbL8-118" value="&lt;p style=&quot;line-height: 90%;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;数据优化&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;align=center;glass=1;shadow=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="395" y="347" width="50" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="QZHdwv4goNbSfUOjAbL8-124" value="&lt;b&gt;故障树编辑：四大自动化核心流程&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="170" y="389" width="198" height="26" as="geometry" />
+        <mxCell id="QZHdwv4goNbSfUOjAbL8-124" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;故障树编辑：四大自动化核心流程&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="155" y="388" width="228" height="29" as="geometry" />
         </mxCell>
         <mxCell id="QZHdwv4goNbSfUOjAbL8-126" value="&lt;p style=&quot;line-height: 90%;&quot;&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;知识抽取&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;align=center;glass=1;shadow=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="159.29" y="428" width="67" height="27" as="geometry" />
