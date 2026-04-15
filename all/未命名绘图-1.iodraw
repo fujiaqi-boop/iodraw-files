@@ -241,8 +241,8 @@
         <mxCell id="QZHdwv4goNbSfUOjAbL8-129" value="&lt;p style=&quot;line-height: 90%;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;逻辑层校验&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;align=center;glass=1;shadow=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="576.54" y="461" width="61" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="QZHdwv4goNbSfUOjAbL8-139" value="&lt;b&gt;数十种故障树功能&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="134.05" y="626.99" width="114" height="26" as="geometry" />
+        <mxCell id="QZHdwv4goNbSfUOjAbL8-139" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;数十种故障树功能&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="113.00000000000001" y="625.99" width="130" height="29" as="geometry" />
         </mxCell>
         <mxCell id="QZHdwv4goNbSfUOjAbL8-144" value="&lt;b&gt;&lt;font color=&quot;#b3b3b3&quot; style=&quot;font-size: 12px;&quot;&gt;基于LLM&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="116.25" y="640" width="60" height="30" as="geometry" />
