@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QZHdwv4goNbSfUOjAbL8-50" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;gradientDirection=west;" parent="1" vertex="1">
+        <mxCell id="QZHdwv4goNbSfUOjAbL8-50" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e5f0ff;strokeColor=#6c8ebf;glass=0;gradientDirection=west;" parent="1" vertex="1">
           <mxGeometry x="140" y="409" width="517" height="210" as="geometry" />
         </mxCell>
         <mxCell id="wZqb0CJCETRgPySjAPVx-19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=auto;gradientColor=#7ea6e0;dashed=1;" vertex="1" parent="1">
@@ -454,7 +454,7 @@
         <mxCell id="wZqb0CJCETRgPySjAPVx-14" value="&lt;b&gt;全链路闭环&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=12 12;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="366.29" y="474" width="74" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="wZqb0CJCETRgPySjAPVx-16" value="&lt;b&gt;智能生成&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="1">
+        <mxCell id="wZqb0CJCETRgPySjAPVx-16" value="&lt;b&gt;智能生成&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=none;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="292.79" y="421" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wZqb0CJCETRgPySjAPVx-26" value="" style="triangle;whiteSpace=wrap;html=1;rounded=0;strokeColor=#d6b656;fillColor=#fff2cc;gradientDirection=west;shadow=0;" vertex="1" parent="1">
