@@ -355,8 +355,8 @@
         <mxCell id="QZHdwv4goNbSfUOjAbL8-208" value="&lt;p style=&quot;line-height: 170%;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Pydantic&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;glass=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="439.75" y="859" width="38" height="16.5" as="geometry" />
         </mxCell>
-        <mxCell id="QZHdwv4goNbSfUOjAbL8-209" value="&lt;p style=&quot;line-height: 170%; font-size: 9px;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;sse&lt;/font&gt;&lt;span style=&quot;&quot;&gt;-&lt;/span&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;starlette&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;glass=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="439.25" y="881" width="54.75" height="16.5" as="geometry" />
+        <mxCell id="QZHdwv4goNbSfUOjAbL8-209" value="&lt;p style=&quot;line-height: 170%; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;sse&lt;/font&gt;&lt;span style=&quot;&quot;&gt;-&lt;/span&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;starlette&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;glass=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="439.25" y="881" width="57.75" height="16.5" as="geometry" />
         </mxCell>
         <mxCell id="QZHdwv4goNbSfUOjAbL8-210" value="&lt;p style=&quot;line-height: 170%;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;PyMuPDF&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;glass=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="481.25" y="769.01" width="38" height="16.5" as="geometry" />
@@ -376,8 +376,8 @@
         <mxCell id="QZHdwv4goNbSfUOjAbL8-228" value="&lt;p style=&quot;line-height: 170%;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;SQLAlchemy&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;glass=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="596.25" y="818.75" width="62" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="QZHdwv4goNbSfUOjAbL8-220" value="&lt;p style=&quot;line-height: 130%;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;py&lt;/font&gt;-&lt;font style=&quot;font-size: 6px;&quot;&gt;multipart&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;glass=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="522.25" y="881" width="44" height="16.5" as="geometry" />
+        <mxCell id="QZHdwv4goNbSfUOjAbL8-220" value="&lt;p style=&quot;line-height: 130%; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;py&lt;/font&gt;-&lt;font style=&quot;font-size: 10px;&quot;&gt;multipart&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;glass=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="505" y="881" width="61.25" height="16.5" as="geometry" />
         </mxCell>
         <mxCell id="QZHdwv4goNbSfUOjAbL8-223" value="&lt;p style=&quot;line-height: 170%;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;SQLite / PostgreSQL&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;glass=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="596.25" y="785.51" width="62" height="18" as="geometry" />
