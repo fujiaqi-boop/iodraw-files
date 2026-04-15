@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="xKPplqu-eIcq1WjQrOUT">
-    <mxGraphModel dx="1289" dy="872" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
+    <mxGraphModel dx="430" dy="291" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -461,7 +461,7 @@
           <mxGeometry x="615.985" y="230.995" width="35.53" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wZqb0CJCETRgPySjAPVx-58" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="304" y="666.01" width="390.99999999999994" height="43" as="geometry" />
+          <mxGeometry x="290" y="666.01" width="390.99999999999994" height="43" as="geometry" />
         </mxCell>
         <mxCell id="QZHdwv4goNbSfUOjAbL8-153" value="&lt;p style=&quot;line-height: 170%;&quot;&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 8px;&quot;&gt;多规则逻辑校验&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;glass=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="wZqb0CJCETRgPySjAPVx-58" vertex="1">
           <mxGeometry width="58.25" height="16.5" as="geometry" />
