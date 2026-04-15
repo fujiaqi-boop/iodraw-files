@@ -487,10 +487,10 @@
         <mxCell id="wZqb0CJCETRgPySjAPVx-16" value="智能生成" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="279.5" y="419" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wZqb0CJCETRgPySjAPVx-17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="wZqb0CJCETRgPySjAPVx-17" value="逻辑校验" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="420.25" y="414" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wZqb0CJCETRgPySjAPVx-18" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="wZqb0CJCETRgPySjAPVx-18" value="智能优化" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="417.25" y="530.99" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
